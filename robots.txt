@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ouic.github.io/snippets-rm1v17/sitemap.xml
